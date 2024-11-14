@@ -25,9 +25,8 @@ This project focuses on scraping a Wiki page to gather data about the largest pu
 
 ## **Libraries and Packages Used**
 
-- **NumPy**: A library for numerical operations and handling large datasets.
-- **Pandas**: A library for data manipulation, cleaning, and transformation.
-- **Matplotlib**: A library for plotting graphs and creating static visualizations.
-- **Seaborn**: A statistical data visualization library built on top of Matplotlib.
-- **BeautifulSoup** (from `bs4`): A Python library for web scraping and parsing HTML data.
-- **Requests**: A Python package for making HTTP requests to fetch the Wiki page.
+- **NumPy**: For numerical operations and handling large datasets.
+- **Pandas**: For data manipulation, cleaning, and transformation.
+- **Matplotlib** and **Seaborn**:  For plotting graphs and creating static visualizations.
+- **BeautifulSoup** (from `bs4`): For web scraping and parsing HTML data.
+- **Requests**: For making HTTP requests to fetch the Wiki page.
